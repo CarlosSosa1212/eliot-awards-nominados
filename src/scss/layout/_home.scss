@@ -1,0 +1,47 @@
+.contenido{
+    height: 100vh;
+    h1{
+        padding-top: 5rem;
+        text-transform: uppercase;
+        span{
+            color: red;
+        }
+    }
+    p{
+        text-align: justify;
+    }
+}
+.regresar{
+    text-align: right;
+    margin-top: 8rem;
+    a{
+        text-transform: uppercase;
+        font-weight: 700;
+        color: black;
+        border: 3px solid black;
+        padding: 1rem 2rem;
+        &:hover{
+            color: white;
+            border-color: white;
+        }
+    }
+    
+}
+.regresar-home{
+    position: absolute;
+    top: 85%;
+    transform: translateY(-85%);
+    left: 50%;
+    transform: translateX(-50%);
+    a{
+        text-transform: uppercase;
+        font-weight: 700;
+        color: black;
+        border: 3px solid black;
+        padding: 1rem 2rem;
+        &:hover{
+            color: white;
+            border-color: white;
+        }
+    }
+}

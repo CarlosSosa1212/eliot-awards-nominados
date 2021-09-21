@@ -1,0 +1,38 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
+.logo{
+    cursor: pointer;
+    img{
+        &:hover{
+            transform: scale(1.2);
+        }
+    }
+}
+.redes{
+    text-align: right;
+    padding-right: 1rem;
+    ul{
+        display: flex;
+        list-style: none;
+        li{
+            margin: 0 1rem;
+            cursor: pointer;
+            &:hover{
+                transform: scale(1.2);
+                border-bottom: 1px solid gray;
+            }
+        }
+    }
+    a{
+        color: white;
+        &:hover{
+            color: gray;
+        }
+    }
+}
