@@ -21,10 +21,11 @@
         <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide slide1" id="home">
-            <div class="box-1">
+            <div class="box-0">
                 <div class="contenedor-1">
                     <h1>Nominados a la categoría How to</h1>
-                    <p class="arrastrar">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar movil">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar pc"><span>Conoce a los nominados da clic en la imagen</span></p>
                     <!--<a href="#primer-texto">Análisis</a>-->
                 </div>
                 <div class="nominados-grid5 contenedor">
@@ -59,17 +60,21 @@
                         </div>
                     </div>
                 </div>
+                <div class="regresar-home">
+                        <a href="../index.html">Regresar</a>
+                </div>
             </div>       
         </div>
         <div class="swiper-slide slide2">
             <div class="box-1">
                 <div class="contenedor-2">
+                <h1>Robegrill</h1>
                     <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-03.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Robegrill</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -87,17 +92,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/robegrill.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Robegrill</h1>
-                        <h2>Este 2021 está nominada a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominado por su gran capacidad creativa e inspiracional. Ha logrado superar los 5 millones de followers en Tik Tok, lanzar su propia línea de merchandising con Urban hangers e incursionó en el mundo de la televisión con su patricipación en Todos a la cocina de Discovery Home and Health
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -108,12 +105,13 @@
         <div class="swiper-slide slide3">
             <div class="box-1">
                 <div class="contenedor-2">
+                <h1>Pongámoslo a Prueba</h1>
                     <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-02.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Pongámoslo a Prueba</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -132,17 +130,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/jimmy.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Pongámoslo a Prueba</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominado por su gran capacidad para entretener, enseñar y divertir al mismo tiempo. Es su segunda nominación a los Eliot Awards y nos complace ver el explosivo crecimiento que ha tenido desde el año pasado. Abrió su cuenta de TikTok y sus videos probando hacks se han convertido en un fenómeno viral que recientemente trasladó a YouTube. En esta plataforma ha logrado colocarse como el canal más visto de México y ese logro en si mismo ya es una gran victoria.   
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -153,12 +143,13 @@
         <div class="swiper-slide slide4">
             <div class="box-1">
                 <div class="contenedor-2">
+                <h1>Rosshanna Bracho</h1>
                     <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-04.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Rosshanna Bracho</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -178,17 +169,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/rossana.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Rosshanna Bracho</h1>
-                        <h2>Este 2021 están nominadas a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta por su gran capacidad creativa e inspiracional. Su trabajo de varios años la ha llevado a consolidarse como una beauty blogger de gran relevancia, y hoy en día tiene un peso muy significativo en este ámbito. A la par de sus redes sociales y el impacto que generan, este año lanzó su primer libro Skin care: tus primeros pasos. Sin duda ha logrado trascender en la industria que le apasiona.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -199,12 +182,13 @@
         <div class="swiper-slide slide5">
             <div class="box-1">
                 <div class="contenedor-2">
+                <h1>Frede Brocha</h1>
                     <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-05.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Frede Brocha</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -223,17 +207,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/fredebrocha.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Frede Brocha</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominado por su gran capacidad creativa e inspiracional. Ha logrado encontrar la receta del éxito mezclando el humor con la cocina, y gracias a ello  cautivó a múltiples audiencias logrando rebasar los 8 millones de followers en Tik Tok. 
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -244,12 +220,13 @@
         <div class="swiper-slide slide6">
             <div class="box-1">
                 <div class="contenedor-2">
+                <h1>Dani Hoyos</h1>
                     <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-01.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Dani Hoyos</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -270,17 +247,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/dani hoyos.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Dani Hoyos</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta por su gran capacidad creativa e inspiracional. Sin duda es una de las artistas más influyentes de internet y ha usado esa potencia para impulsar el trabajo de los demás. Fue así que creó la iniciativa prittibydani, un espacio para que artistas pequeños dieran a conocer su talento. Además incursionó en el mundo de la televisión al colaborar con Disney + y plasmó su arte en un producto que consumen millones de personas.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -293,9 +262,11 @@
         <!-- If we need pagination 
         <div class="swiper-pagination"></div>-->
     
-        <!-- If we need navigation buttons 
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>-->
+        <!-- If we need navigation buttons -->
+        <div class="pc">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
     
         <!-- If we need scrollbar 
         <div class="swiper-scrollbar"></div>-->

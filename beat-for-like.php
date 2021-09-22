@@ -22,10 +22,11 @@
         <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide slide1" id="home">
-            <div class="box-1">
+            <div class="box-0">
                 <div class="contenedor-1">
                     <h1>Nominados a la categoría Beat for Like</h1>
-                    <p class="arrastrar">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar movil">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar pc"><span>Conoce a los nominados da clic en la imagen</span></p>
                     <!--<a href="#primer-texto">Análisis</a>-->
                 </div>
                 <div class="nominados-grid5 contenedor">
@@ -60,29 +61,21 @@
                         </div>
                     </div>
                 </div>
-            </div> 
-            <div class="contenedor">
-                <div class="texto-big">
-                    <p>Entretenimiento</p>
+                <div class="regresar-home">
+                        <a href="../index.html">Regresar</a>
                 </div>
-                <div class="texto-big">
-                    <p>Diversión</p>
-                </div>
-                <div class="texto-big">
-                    <p>Contenido</p>
-                </div>
-            </div>      
+            </div>       
         </div>
         <div class="swiper-slide slide2">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <h1 class="movil">Ingratax</h1>
+                <h1>Ingratax</h1>
                     <a href="#primer-texto"><img src="build/img/beat/NOMINADOS INDIVIDUALES-BEAT4LIKE-01.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1 class="pc">Ingratax</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -101,17 +94,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/beat/INGRATAX 1.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Ingratax</h1>
-                        <h2>Este 2021 está nominada a la categoría de Beat for Like</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominada por su impactante irrupción en la escena musical de habla hispana. Su primer sencillo París ha sido un éxito explosivo que la ha colocado dentro de los charts TOP 200 y VIRAL 50 de Spotify. Además, el video musical de este tema acumula más de 50 millones de visualizaciones en YouTube. Nos emociona presenciar el nacimiento de una gran carrera.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -122,13 +107,13 @@
         <div class="swiper-slide slide3">
             <div class="box-1">
                 <div class="contenedor-2">
-                <h1 class="movil">Mont Pantoja</h1>
+                <h1>Mont Pantoja</h1>
                     <a href="#primer-texto"><img src="build/img/beat/NOMINADOS INDIVIDUALES-BEAT4LIKE-04.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1 class="pc">Mont Pantoja</h1>
+
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -148,18 +133,10 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/beat/MONT PANTOJA.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Mont Pantoja</h1>
-                        <h2>Este 2021 está nominado a la categoría de Beat for Like</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominada por la prometedora carrera musical que empezó en marzo de este año. Su primer sencillo Maviri fue tendencia durante varios días en YouTube, y su segunda canción Uy K Raro incluso superó el impacto de su predecesora. Más de 2.5 millones de personas disfrutan de su música cada mes en plataformas digitales y estamos seguros de que seguirá sorprendiéndolos con tu frescura.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
-                    </div>
+                    </div>>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
                     </div>
@@ -169,13 +146,12 @@
         <div class="swiper-slide slide4">
             <div class="box-1">
                 <div class="contenedor-2">
-                <h1 class="movil">Karol Sevilla</h1>
+                <h1>Karol Sevilla</h1>
                     <a href="#primer-texto"><img src="build/img/beat/NOMINADOS INDIVIDUALES-BEAT4LIKE-05.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
-                <div class="box-nominados">
-                    <h1 class="pc">Karol Sevilla</h1>
+                <div class="box-nominados">>
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -195,17 +171,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/beat/CAROL SEVILLA.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Karol Sevilla</h1>
-                        <h2>Este 2021 están nominadas a la categoría de Beat for Like</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominada por su consistente y relevante trayectoria musical. En los últimos 12 meses ha lanzado sencillos como Nadie te entiende, Tus besos y Desde hoy que han tenido gran impacto entre su audiencia y más allá. Paralelamente se ha consolidado como creadora digital y su liderazgo en TikTok es innegable. 
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -216,13 +184,12 @@
         <div class="swiper-slide slide5">
             <div class="box-1">
                 <div class="contenedor-2">
-                <h1 class="movil">María Becerra</h1>
+                <h1>María Becerra</h1>
                     <a href="#primer-texto"><img src="build/img/beat/NOMINADOS INDIVIDUALES-BEAT4LIKE-02.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1 class="pc">María Becerra</h1>
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -243,17 +210,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/beat/MARIA BECERRA.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">María Becerra</h1>
-                        <h2>Este 2021 está nominado a la categoría de Beat for Like</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominada por el gran impacto que ha tenido su música en los últimos 12 meses. La conocimos como creadora en Youtube, pero logró hacer una transición exitosa y sumamente relevante al ámbito musical. Sus colaboraciones con J.Balvin y Tini dan cuenta de ello y de su creciente visibilidad en la industria. Además, acaba de lanzar su primer álbum Animal que es el compendio de los grandes éxitos que has cosechado en su carrera. 
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -264,13 +223,13 @@
         <div class="swiper-slide slide6">
             <div class="box-1">
                 <div class="contenedor-2">
-                <h1 class="movil">Kenia Os</h1>
+                <h1>Kenia Os</h1>
                     <a href="#primer-texto"><img src="build/img/beat/NOMINADOS INDIVIDUALES-BEAT4LIKE-03.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1 class="pc">Kenia Os</h1>
+
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -291,17 +250,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/beat/KENIA OS.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Kenia Os</h1>
-                        <h2>Este 2021 está nominado a la categoría de Beat for Like</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominada por su consistente y relevante trayectoria musical. En particular celebramos el éxito de su disco Canciones pa mi ex Vol.1 que tuvo un lanzamiento de gran impacto y le ha permitido posicionarse en plataformas de streaming como Spotify pues cuenta con más de 2.6 millones de oyentes mensuales.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -314,9 +265,11 @@
         <!-- If we need pagination 
         <div class="swiper-pagination"></div>-->
     
-        <!-- If we need navigation buttons 
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>-->
+        <!-- If we need navigation buttons -->
+        <div class="pc">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
     
         <!-- If we need scrollbar 
         <div class="swiper-scrollbar"></div>-->

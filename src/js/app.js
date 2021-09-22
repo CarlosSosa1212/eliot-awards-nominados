@@ -47,7 +47,9 @@ $(document).ready(function(){
     $("#5").hover(function(){
       $('#hover-5').slideToggle("slow");
     });
-
+    $("#6").hover(function(){
+      $('#hover-6').slideToggle("slow");
+    });
 });
 
 function arrastrar(){

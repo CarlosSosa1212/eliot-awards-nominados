@@ -21,55 +21,60 @@
         <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide slide1" id="home">
-            <div class="box-1">
+            <div class="box-0">
                 <div class="contenedor-1">
                     <h1>Nominados a la categoría Revelación del año</h1>
-                    <p class="arrastrar">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar movil">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar pc"><span>Conoce a los nominados da clic en la imagen</span></p>
                     <!--<a href="#primer-texto">Análisis</a>-->
                 </div>
                 <div class="nominados-grid5 contenedor">
                     <div class="item-grid" id="1">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-03.png" alt="">
+                        <img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-04.webp" alt="">
                         <div class="item-hover" id="hover-1">
                             <p>Ignacia Antonia</p>
                         </div>
                     </div>
                     <div class="item-grid" id="2">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-02.png" alt="">
+                        <img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-02.webp" alt="">
                         <div class="item-hover" id="hover-2">
                             <p>Kunno</p>
                         </div>
                     </div>
                     <div class="item-grid" id="3">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-04.png" alt="">
+                        <img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-03.webp" alt="">
                         <div class="item-hover" id="hover-3">
                             <p>César Pantoja</p>
                         </div>
                     </div>
                     <div class="item-grid" id="4">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-05.png" alt="">
+                        <img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-05.webp" alt="">
                         <div class="item-hover" id="hover-4">
                             <p>Carlos Feria</p>
                         </div>
                     </div>
                     <div class="item-grid" id="5">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-01.png" alt="">
+                        <img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-01.webp" alt="">
                         <div class="item-hover" id="hover-5">
                             <p>Darian Rojas</p>
                         </div>
                     </div>
+                </div>
+                <div class="regresar-home">
+                        <a href="../index.html">Regresar</a>
                 </div>
             </div>       
         </div>
         <div class="swiper-slide slide2">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-03.webp" alt="" class="nominado-img "></a>
+                <h1>Ignacia Antonia</h1>
+                    <a href="#primer-texto"><img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-04.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Ignacia Antonia</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -89,17 +94,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/robegrill.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Ignacia Antonia</h1>
-                        <h2>Este 2021 está nominada a la categoría de revelación del año</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 está nominada por el explosivo crecimiento que ha tenido en distintas plataformas. No sólo logró posicionarse como la creadora de contenido chilena con más followers en Tik Tok, además condujo la semana de la Rbd manía, debutastó como actriz en  la telenovela ¿Qué le pasa a mi familia? y grabastó su primer largometraje en Chile. 
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -110,12 +107,13 @@
         <div class="swiper-slide slide3">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-02.webp" alt="" class="nominado-img "></a>
+                <h1>Kunno</h1>
+                    <a href="#primer-texto"><img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-02.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Kunno</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -136,17 +134,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/jimmy.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Kunno</h1>
-                        <h2>Este 2021 está nominado a la categoría de revelación del año</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominado por el crecimiento que ha tenido en distintos medios y plataformas. Fue conductor en eventos muy relevantes como los premios Oscar y los Heat 2021. Lanzó su primer sencillo titulado Tal vez no, que alcanzó 15 millones de reproducciones en Youtube y colaboró en proyectos de cantantes de impacto global como Karol G, Ricky Martin y Carlos Vives. Además fue imagen de Loving It e incursionó como actor en la serie Como dice el dicho.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -157,12 +147,13 @@
         <div class="swiper-slide slide4">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-04.webp" alt="" class="nominado-img "></a>
+                <h1>César Pantoja</h1>
+                    <a href="#primer-texto"><img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-03.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>César Pantoja</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -181,17 +172,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/rossana.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">César Pantoja</h1>
-                        <h2>Este 2021 están nominadas a la categoría de revelación del año</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominado por su impactante irrupción en el mundo digital. Con apenas unos meses en plataformas como TikTok y Youtube, ha logrado construir una audiencia fiel y entregada. Rápidamente se ha convertido en una figura relevante dentro de nuestra industria. 
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -202,12 +185,13 @@
         <div class="swiper-slide slide5">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-05.webp" alt="" class="nominado-img "></a>
+                <h1>Carlos Feria</h1>
+                    <a href="#primer-texto"><img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-05.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Carlos Feria</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -228,17 +212,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/fredebrocha.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Carlos Feria</h1>
-                        <h2>Este 2021 está nominado a la categoría de revelación del año</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominado por su marcado liderazgo e impacto en distintas plataformas. Es la persona más influyente de TikTok Colombia y ha aprovechado este gran foro para lanzar nuevos proyectos. Aplaudimos su incursión en la música con el tema Pa´mi y estamos ansiosos de ver a dónde le llevará esta nueva aventura.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -249,12 +225,13 @@
         <div class="swiper-slide slide6">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-01.webp" alt="" class="nominado-img "></a>
+                <h1>Darian Rojas</h1>
+                    <a href="#primer-texto"><img src="build/img/revelacion/NOMINADOS INDIVIDUALES-REVELACION WEB-01.webp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Darian Rojas</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -275,17 +252,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/dani hoyos.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Darian Rojas</h1>
-                        <h2>Este 2021 está nominado a la categoría de revelación del año</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>E</span>ste 2021 esta nominada por su gran impacto e influencia en la juventud latinoamericana. Es una de las mujeres más seguidas en TikTok México y su audiencia sigue creciendo de manera exponencial. Esto ha hecho que distintas marcas globales se interesen en colaborar con ella, ya que es un modelo a seguir para millones de mujeres y hombres.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -298,9 +267,11 @@
         <!-- If we need pagination 
         <div class="swiper-pagination"></div>-->
     
-        <!-- If we need navigation buttons 
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>-->
+        <!-- If we need navigation buttons -->
+        <div class="pc">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
     
         <!-- If we need scrollbar 
         <div class="swiper-scrollbar"></div>-->

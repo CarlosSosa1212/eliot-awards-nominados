@@ -21,41 +21,42 @@
         <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide slide1" id="home">
-            <div class="box-1">
+            <div class="box-0">
                 <div class="contenedor-1">
                     <h1>Nominados a la categoría Best Engager</h1>
-                    <p class="arrastrar">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar movil">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
+                    <p class="arrastrar pc"><span>Conoce a los nominados da clic en la imagen</span></p>
                     <!--<a href="#primer-texto">Análisis</a>-->
                 </div>
                 <div class="nominados-grid5 contenedor">
                     <div class="item-grid" id="1">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-03.png" alt="">
+                        <img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-01.webp" alt="">
                         <div class="item-hover" id="hover-1">
-                            <p>Robegrill</p>
+                            <p>Domelipa</p>
                         </div>
                     </div>
                     <div class="item-grid" id="2">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-02.png" alt="">
+                        <img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-02.webp" alt="">
                         <div class="item-hover" id="hover-2">
-                            <p>Pongámoslo a Prueba</p>
+                            <p>Sofía Castro</p>
                         </div>
                     </div>
                     <div class="item-grid" id="3">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-04.png" alt="">
+                        <img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-03.webp" alt="">
                         <div class="item-hover" id="hover-3">
-                            <p>Rosshanna Bracho</p>
+                            <p>Brianda</p>
                         </div>
                     </div>
                     <div class="item-grid" id="4">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-05.png" alt="">
+                        <img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-04.webp" alt="">
                         <div class="item-hover" id="hover-4">
-                            <p>Frede Brocha</p>
+                            <p>Majo</p>
                         </div>
                     </div>
                     <div class="item-grid" id="5">
-                        <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-01.png" alt="">
+                        <img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-05.webp" alt="">
                         <div class="item-hover" id="hover-5">
-                            <p>Dani Hoyos</p>
+                            <p>Missasinfonia</p>
                         </div>
                     </div>
                 </div>
@@ -64,12 +65,13 @@
         <div class="swiper-slide slide2">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-03.webp" alt="" class="nominado-img "></a>
+                <h1>Domelipa</h1>
+                    <a href="#primer-texto"><img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-01.webpp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Robegrill</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -86,17 +88,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/robegrill.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Robegrill</h1>
-                        <h2>Este 2021 está nominada a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>P</span>or su gran trabajo en redes sociales que siempre logra sacarnos una sonrisa. Con apenas un año creando contenido, ha logrado encantar a más de 10 millones de personas en TikTok con sus divertidas anécdotas sobre el choque cultural que vivió al llegar de Corea a México. Empezó como profesora de lenguas y ahora es una de las tiktokers más seguidas de la plataforma, así como una de las creadoras más relevantes de YouTube en habla hispana. 
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -107,12 +101,13 @@
         <div class="swiper-slide slide3">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-02.webp" alt="" class="nominado-img "></a>
+                <h1>Sofía Castro</h1>
+                    <a href="#primer-texto"><img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-02.webpp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Pongámoslo a Prueba</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -130,17 +125,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/jimmy.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Pongámoslo a Prueba</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>P</span>or su increíble capacidad para hacer reír a los demás. Tiene una larga trayectoria en redes sociales, pero este último año, sus esfuerzos y constancia rindieron frutos y logró llegar a una audiencia mucho más grande. Con sus parodias originales y sketches ha conseguido enamorar a millones de personas en TikTok, que adoran ver sus pasos de baile, conocer a sus creativos personajes, y sobre todo, reír con su personalidad tan única.  
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -151,12 +138,13 @@
         <div class="swiper-slide slide4">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-04.webp" alt="" class="nominado-img "></a>
+                <h1>Brianda</h1>
+                    <a href="#primer-texto"><img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-03.webpp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Rosshanna Bracho</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -172,17 +160,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/rossana.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Rosshanna Bracho</h1>
-                        <h2>Este 2021 están nominadas a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>P</span>or su increíble habilidad para generar risas y diversión a través de su contenido. Su relación de hermanas ha logrado traspasar la pantalla, y a través de sus ingeniosos sketches en TikTok, han logrado conectar con millones de personas. Gracias a su autenticidad y espontaneidad, hoy se ubican dentro de los creadores de contenido cómico más relevantes de la plataforma. 
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -192,13 +172,14 @@
         </div>
         <div class="swiper-slide slide5">
             <div class="box-1">
+            <h1>Majo</h1>
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-05.webp" alt="" class="nominado-img "></a>
+                    <a href="#primer-texto"><img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-04.webpp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Frede Brocha</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -217,17 +198,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/fredebrocha.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Frede Brocha</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>G</span>racias a su constante trabajo dedicado a hacer reír a los demás. En sus videos muestra el lado más gracioso de la realidad y de las situaciones cotidianas, desde la perspectiva de sus divertidos personajes. Su buen humor, gran carisma e innegable creatividad lo han llevado a colaborar con varias marcas, tener su propio show de How to y consolidarse como uno de los humoristas más influyentes de la actualidad.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -238,12 +211,13 @@
         <div class="swiper-slide slide6">
             <div class="box-1">
                 <div class="contenedor-2">
-                    <a href="#primer-texto"><img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-01.webp" alt="" class="nominado-img "></a>
+                <h1>Missasinfonia</h1>
+                    <a href="#primer-texto"><img src="build/img/engager/Nominados individuales PARTE 2-BESTENGAGER-05.webpp" alt="" class="nominado-img "></a>
                 </div>
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Dani Hoyos</h1>
+                    
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
@@ -262,17 +236,9 @@
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
-                    <img src="build/img/how/dani hoyos.webp" alt="" class="img-2">
-                    <div class="cuadro-desc">
-                        <h1 id="text-rojo">Dani Hoyos</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
-                    </div>
                     <div class="text-nominado">
                         <p><span>D</span>ebido a su constancia y esfuerzo por alegrar la vida de los demás a través de su contenido. Sus graciosas y atinadas imitaciones de madres, maestras y otros personajes de la vida cotidiana, han logrado conectar con millones de personas en internet. Sus videos llenos de nostalgia y buen humor lo han llevado a aparecer en programas de televisión, ser portada de revistas y convertirse en la imagen de marcas muy reconocidas.
                         </p>
-                    </div>
-                    <div class="video">
-                        <video src="build/img/reell.webmhd.webm" autoplay loop muted></video>
                     </div>
                     <div class="regresar">
                         <a href="#home">Regresar</a>
@@ -285,9 +251,11 @@
         <!-- If we need pagination 
         <div class="swiper-pagination"></div>-->
     
-        <!-- If we need navigation buttons 
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>-->
+        <!-- If we need navigation buttons -->
+        <div class="pc">
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
     
         <!-- If we need scrollbar 
         <div class="swiper-scrollbar"></div>-->
