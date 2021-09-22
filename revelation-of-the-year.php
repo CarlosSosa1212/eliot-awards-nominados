@@ -23,7 +23,7 @@
         <div class="swiper-slide slide1" id="home">
             <div class="box-1">
                 <div class="contenedor-1">
-                    <h1>Nominados a la categoría How to</h1>
+                    <h1>Nominados a la categoría Revelación del año</h1>
                     <p class="arrastrar">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
                     <!--<a href="#primer-texto">Análisis</a>-->
                 </div>
@@ -31,31 +31,31 @@
                     <div class="item-grid" id="1">
                         <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-03.png" alt="">
                         <div class="item-hover" id="hover-1">
-                            <p>Robegrill</p>
+                            <p>Ignacia Antonia</p>
                         </div>
                     </div>
                     <div class="item-grid" id="2">
                         <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-02.png" alt="">
                         <div class="item-hover" id="hover-2">
-                            <p>Pongámoslo a Prueba</p>
+                            <p>Kunno</p>
                         </div>
                     </div>
                     <div class="item-grid" id="3">
                         <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-04.png" alt="">
                         <div class="item-hover" id="hover-3">
-                            <p>Rosshanna Bracho</p>
+                            <p>César Pantoja</p>
                         </div>
                     </div>
                     <div class="item-grid" id="4">
                         <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-05.png" alt="">
                         <div class="item-hover" id="hover-4">
-                            <p>Frede Brocha</p>
+                            <p>Carlos Feria</p>
                         </div>
                     </div>
                     <div class="item-grid" id="5">
                         <img src="build/img/how/NOMINADOS INDIVIDUALES-HOWTO-01.png" alt="">
                         <div class="item-hover" id="hover-5">
-                            <p>Dani Hoyos</p>
+                            <p>Darian Rojas</p>
                         </div>
                     </div>
                 </div>
@@ -69,31 +69,33 @@
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Robegrill</h1>
+                    <h1>Ignacia Antonia</h1>
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
-                        <p>Roberto Morales.</p>
+                        <p>Ignacia Antonia Hernández Riquelme</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/soojinicoreana" target="_blank"><i class="fab fa-facebook-f"></i><b> @soojinicoreana</b></a>  16k seguidores</p> 
-                        <p><a href="https://www.instagram.com/soojinicoreana/" target="_blank"><i class="fab fa-instagram"></i> <b> @soojinicoreana</b></a>  890k seguidores </p>
-                        <p><a href="https://www.tiktok.com/@soojinicoreana" target="_blank"><i class="fab fa-tiktok"></i><b> @soojinicoreana</b></a>  5.9 millones de seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @soojinicoreana</b></a>  8.3 millones de seguidores</p>
+                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @soojinicoreana</b></a>  24.6 millones de seguidores</p>
+                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i><b> @soojinicoreana</b></a>  3.48 millones de suscriptores</p> 
+                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @soojinicoreana</b></a>  6.3K seguidores</p>
+                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i><b> @soojinicoreana</b></a>  2.5K de oyentes mensuales</p>
                         <h2>Fecha de nacimiento</h2>
-                        <p>??</p>
+                        <p>7 de septiembre de 2001</p>
                         <h2>Nacionalidad</h2>
-                        <p>Mexicano</p>
+                        <p>Chileno</p>
                         <h2>Lugar de Origen</h2>
-                        <p>Hermosillo, Sonora.</p>
+                        <p>Santiago de Chile, Chile.</p>
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
                     <img src="build/img/how/robegrill.webp" alt="" class="img-2">
                     <div class="cuadro-desc">
-                        <h1 id="text-rojo">Robegrill</h1>
-                        <h2>Este 2021 está nominada a la categoría de How to</h2>
+                        <h1 id="text-rojo">Ignacia Antonia</h1>
+                        <h2>Este 2021 está nominada a la categoría de revelación del año</h2>
                     </div>
                     <div class="text-nominado">
-                        <p><span>E</span>ste 2021 esta nominado por su gran capacidad creativa e inspiracional. Ha logrado superar los 5 millones de followers en Tik Tok, lanzar su propia línea de merchandising con Urban hangers e incursionó en el mundo de la televisión con su patricipación en Todos a la cocina de Discovery Home and Health
+                        <p><span>E</span>ste 2021 está nominada por el explosivo crecimiento que ha tenido en distintas plataformas. No sólo logró posicionarse como la creadora de contenido chilena con más followers en Tik Tok, además condujo la semana de la Rbd manía, debutastó como actriz en  la telenovela ¿Qué le pasa a mi familia? y grabastó su primer largometraje en Chile. 
                         </p>
                     </div>
                     <div class="video">
@@ -113,32 +115,34 @@
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Pongámoslo a Prueba</h1>
+                    <h1>Kunno</h1>
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
-                        <p>Jimmy Álvarez</p>
+                        <p>Guillermo Kunno</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/Rorrovidios" target="_blank"><i class="fab fa-facebook-f"></i><b> @Rorrovidios</b></a>  2M de seguidores</p> 
-                        <p><a href="https://www.instagram.com/rorrovidios/" target="_blank"><i class="fab fa-instagram"></i> <b> @rorrovidios</b></a>  266K seguidores </p>
-                        <p><a href="https://www.tiktok.com/@rorrovidios" target="_blank"><i class="fab fa-tiktok"></i><b> @rorrovidios</b></a>  21.5 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/c/Rorrovidios" target="_blank"><i class="fab fa-youtube"></i> <b> @Rorrovidios</b></a>  3.08 millones de suscriptores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i><b> @Rorrovidios</b></a>  921K seguidores</p> 
+                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @rorrovidios</b></a>  5 millones de seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @rorrovidios</b></a>  23 millones de seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Rorrovidios</b></a>  653K suscriptores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i> <b> @Rorrovidios</b></a>  25.9K oyentes mensuales</p>
                         <h2>Fecha de nacimiento</h2>
-                        <p>20 de Junio de 1989</p>
+                        <p>8 de Mayo de 2000</p>
                         <h2>Nacionalidad</h2>
                         <p>Mexicano</p>
                         <h2>Lugar de origen</h2>
-                        <p>México</p>
+                        <p>Monterrey, México</p>
+                        
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
                     <img src="build/img/how/jimmy.webp" alt="" class="img-2">
                     <div class="cuadro-desc">
-                        <h1 id="text-rojo">Pongámoslo a Prueba</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
+                        <h1 id="text-rojo">Kunno</h1>
+                        <h2>Este 2021 está nominado a la categoría de revelación del año</h2>
                     </div>
                     <div class="text-nominado">
-                        <p><span>E</span>ste 2021 esta nominado por su gran capacidad para entretener, enseñar y divertir al mismo tiempo. Es su segunda nominación a los Eliot Awards y nos complace ver el explosivo crecimiento que ha tenido desde el año pasado. Abrió su cuenta de TikTok y sus videos probando hacks se han convertido en un fenómeno viral que recientemente trasladó a YouTube. En esta plataforma ha logrado colocarse como el canal más visto de México y ese logro en si mismo ya es una gran victoria.   
+                        <p><span>E</span>ste 2021 esta nominado por el crecimiento que ha tenido en distintos medios y plataformas. Fue conductor en eventos muy relevantes como los premios Oscar y los Heat 2021. Lanzó su primer sencillo titulado Tal vez no, que alcanzó 15 millones de reproducciones en Youtube y colaboró en proyectos de cantantes de impacto global como Karol G, Ricky Martin y Carlos Vives. Además fue imagen de Loving It e incursionó como actor en la serie Como dice el dicho.
                         </p>
                     </div>
                     <div class="video">
@@ -158,33 +162,32 @@
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Rosshanna Bracho</h1>
+                    <h1>César Pantoja</h1>
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
-                        <p>Rosshanna Bracho</p>
+                        <p>César Fernando Nieblas Nuñez</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @odalysanddafnne</b></a>  412K seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @odalysanddafnne</b></a>  104.8K seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Hermanas JM</b></a>  533K suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-facebook"></i> <b> @Hermanas JM</b></a>  73K seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Hermanas JM</b></a>  28.7K seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @odalysanddafnne</b></a>  2.8 millones de seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @odalysanddafnne</b></a>  10.2 millones de seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Hermanas JM</b></a>  3.08 millones de suscriptores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Hermanas JM</b></a>  235K seguidores</p>
                         <h2>Fecha de nacimiento</h2>
-                        <p>16 de agosto de 1990</p>
+                        <p>27 de febrero de 2003</p>
                         <h2>Nacionalidad</h2>
                         <p>Venezolana</p>
                         <h2>Lugar de origen/h2>
-                        <p>Maracaibo, Venezuela</p>
+                        <p>Puerto de Mazatlán, Sinaloa, México</p>
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
                     <img src="build/img/how/rossana.webp" alt="" class="img-2">
                     <div class="cuadro-desc">
-                        <h1 id="text-rojo">Rosshanna Bracho</h1>
-                        <h2>Este 2021 están nominadas a la categoría de How to</h2>
+                        <h1 id="text-rojo">César Pantoja</h1>
+                        <h2>Este 2021 están nominadas a la categoría de revelación del año</h2>
                     </div>
                     <div class="text-nominado">
-                        <p><span>E</span>ste 2021 esta por su gran capacidad creativa e inspiracional. Su trabajo de varios años la ha llevado a consolidarse como una beauty blogger de gran relevancia, y hoy en día tiene un peso muy significativo en este ámbito. A la par de sus redes sociales y el impacto que generan, este año lanzó su primer libro Skin care: tus primeros pasos. Sin duda ha logrado trascender en la industria que le apasiona.
+                        <p><span>E</span>ste 2021 esta nominado por su impactante irrupción en el mundo digital. Con apenas unos meses en plataformas como TikTok y Youtube, ha logrado construir una audiencia fiel y entregada. Rápidamente se ha convertido en una figura relevante dentro de nuestra industria. 
                         </p>
                     </div>
                     <div class="video">
@@ -204,32 +207,34 @@
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Frede Brocha</h1>
+                    <h1>Carlos Feria</h1>
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
-                        <p>Alfredo Briceño.</p>
+                        <p>Carlos Alberto Feria Guzmán</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-facebook-f"></i><b> @MarioAguilarvideos</b></a>  8.2 millones de seguidores</p> 
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @marioaguilarmg</b></a>  1.2 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @marioaguilar</b></a>  8.2 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @MarioAguilarMG</b></a>  565K suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @MarioAguilarMG</b></a>  11.7K suscriptores </p>
-
-                        <h2>Edad</h2>
-                        <p>29 años</p>
+                        <p><a href="#" target="_blank"><i class="fab fa-facebook-f"></i><b> @MarioAguilarvideos</b></a>  1.7 millones de seguidores</p> 
+                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @marioaguilarmg</b></a>  5.8 millones de seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @marioaguilar</b></a>  32.2 millones de seguidores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @MarioAguilarMG</b></a>  2.06 millones de suscriptores </p>
+                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i> <b> @MarioAguilarMG</b></a>  24.5K oyentes mensuales</p>
+                        
+                        <h2>Fecha de nacimiento</h2>
+                        <p>2 de noviembre de 1996</p>
+                        <h2>Nacionalidad</h2>
+                        <p>Colombiana</p>
                         <h2>Lugar de origen</h2>
-                        <p>Venezuela.</p>
+                        <p>Pereira, Colombia.</p>
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
                     <img src="build/img/how/fredebrocha.webp" alt="" class="img-2">
                     <div class="cuadro-desc">
-                        <h1 id="text-rojo">Frede Brocha</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
+                        <h1 id="text-rojo">Carlos Feria</h1>
+                        <h2>Este 2021 está nominado a la categoría de revelación del año</h2>
                     </div>
                     <div class="text-nominado">
-                        <p><span>E</span>ste 2021 esta nominado por su gran capacidad creativa e inspiracional. Ha logrado encontrar la receta del éxito mezclando el humor con la cocina, y gracias a ello  cautivó a múltiples audiencias logrando rebasar los 8 millones de followers en Tik Tok. 
+                        <p><span>E</span>ste 2021 esta nominado por su marcado liderazgo e impacto en distintas plataformas. Es la persona más influyente de TikTok Colombia y ha aprovechado este gran foro para lanzar nuevos proyectos. Aplaudimos su incursión en la música con el tema Pa´mi y estamos ansiosos de ver a dónde le llevará esta nueva aventura.
                         </p>
                     </div>
                     <div class="video">
@@ -249,34 +254,34 @@
             </div>
             <div class="contenedor contenido2" id="primer-texto">
                 <div class="box-nominados">
-                    <h1>Dani Hoyos</h1>
+                    <h1>Darian Rojas</h1>
                     <div class="cuadro-desc">
                         
                         <h2>Nombre:</h2>
-                        <p>Daniela Hoyos Falcó</p>
+                        <p>Darian Fernanda Rojas Crawston</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/PacoDeMiguelF" target="_blank"><i class="fab fa-facebook-f"></i><b> @PacoDeMiguelF</b></a>  170k seguidores</p> 
-                        <p><a href="https://www.instagram.com/pacodemiguel/" target="_blank"><i class="fab fa-instagram"></i> <b> @pacodemiguel</b></a>  1.8 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@pacodemiguel" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  1.9 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/user/PacoDeMiguelOficial" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  4.43 millones de suscriptores </p>
-                        <p><a href="https://twitter.com/PacoDeMiguelF" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @PacoDeMiguelF</b></a>  187.6K suscriptores </p>
+                        <p><a href="https://www.facebook.com/PacoDeMiguelF" target="_blank"><i class="fab fa-facebook-f"></i><b> @PacoDeMiguelF</b></a>  117k seguidores</p> 
+                        <p><a href="https://www.instagram.com/pacodemiguel/" target="_blank"><i class="fab fa-instagram"></i> <b> @pacodemiguel</b></a>  7.4 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@pacodemiguel" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  28.7 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/user/PacoDeMiguelOficial" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  1.3 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/PacoDeMiguelF" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @PacoDeMiguelF</b></a>  1.1 millones de seguidores </p>
                         
                         <h2>Fecha de nacimiento</h2>
-                        <p>26 de diciembre de 1995</p>
+                        <p>6 de diciembre de 1996</p>
                         <h2>Nacionalidad</h2>
                         <p>Mexicano</p>
                         <h2>Lugar de origen</h2>
-                        <p>Cholula, Puebla, México</p>
+                        <p>Mexicali, México.</p>
                         <!--<h2>Negocios</h2>
                         <p>Línea de cosméticos y ropa, libros perfume con CyZone y shampoo con Sedal</p>-->
                     </div>
                     <img src="build/img/how/dani hoyos.webp" alt="" class="img-2">
                     <div class="cuadro-desc">
-                        <h1 id="text-rojo">Dani Hoyos</h1>
-                        <h2>Este 2021 está nominado a la categoría de How to</h2>
+                        <h1 id="text-rojo">Darian Rojas</h1>
+                        <h2>Este 2021 está nominado a la categoría de revelación del año</h2>
                     </div>
                     <div class="text-nominado">
-                        <p><span>E</span>ste 2021 esta por su gran capacidad creativa e inspiracional. Sin duda es una de las artistas más influyentes de internet y ha usado esa potencia para impulsar el trabajo de los demás. Fue así que creó la iniciativa prittibydani, un espacio para que artistas pequeños dieran a conocer su talento. Además incursionó en el mundo de la televisión al colaborar con Disney + y plasmó su arte en un producto que consumen millones de personas.
+                        <p><span>E</span>ste 2021 esta nominada por su gran impacto e influencia en la juventud latinoamericana. Es una de las mujeres más seguidas en TikTok México y su audiencia sigue creciendo de manera exponencial. Esto ha hecho que distintas marcas globales se interesen en colaborar con ella, ya que es un modelo a seguir para millones de mujeres y hombres.
                         </p>
                     </div>
                     <div class="video">
