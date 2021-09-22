@@ -80,9 +80,11 @@
                         <h2>Nombre:</h2>
                         <p>Roberto Morales.</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/soojinicoreana" target="_blank"><i class="fab fa-facebook-f"></i><b> @soojinicoreana</b></a>  16k seguidores</p> 
-                        <p><a href="https://www.instagram.com/soojinicoreana/" target="_blank"><i class="fab fa-instagram"></i> <b> @soojinicoreana</b></a>  890k seguidores </p>
-                        <p><a href="https://www.tiktok.com/@soojinicoreana" target="_blank"><i class="fab fa-tiktok"></i><b> @soojinicoreana</b></a>  5.9 millones de seguidores </p>
+                        <p><a href="https://www.facebook.com/robegrill" target="_blank"><i class="fab fa-facebook-f"></i><b> @robegrill</b></a>  16k seguidores</p> 
+                        <p><a href="https://www.instagram.com/robegrill" target="_blank"><i class="fab fa-instagram"></i> <b> @robegrill</b></a>  890k seguidores </p>
+                        <p><a href="https://www.tiktok.com/@robegrill" target="_blank"><i class="fab fa-tiktok"></i><b> @robegrill</b></a>  5.9 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UClLTrkCuA4zB_qgp-V3cXTQ" target="_blank"><i class="fab fa-youtube"></i><b> @Roberto Morales chef</b></a>  5.9 millones de seguidores </p>
+                        
                         <h2>Fecha de nacimiento</h2>
                         <p>??</p>
                         <h2>Nacionalidad</h2>
@@ -117,10 +119,10 @@
                         <h2>Nombre:</h2>
                         <p>Jimmy Álvarez</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/Rorrovidios" target="_blank"><i class="fab fa-facebook-f"></i><b> @Rorrovidios</b></a>  2M de seguidores</p> 
-                        <p><a href="https://www.instagram.com/rorrovidios/" target="_blank"><i class="fab fa-instagram"></i> <b> @rorrovidios</b></a>  266K seguidores </p>
-                        <p><a href="https://www.tiktok.com/@rorrovidios" target="_blank"><i class="fab fa-tiktok"></i><b> @rorrovidios</b></a>  21.5 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/c/Rorrovidios" target="_blank"><i class="fab fa-youtube"></i> <b> @Rorrovidios</b></a>  3.08 millones de suscriptores </p>
+                        <p><a href="https://www.facebook.com/Pongamosloaprueba" target="_blank"><i class="fab fa-facebook-f"></i><b> @Pongamosloaprueba</b></a>  2M de seguidores</p> 
+                        <p><a href="https://www.instagram.com/pongamoslo_a_prueba/?hl=es-la" target="_blank"><i class="fab fa-instagram"></i> <b> @pongamoslo_a_prueba</b></a>  266K seguidores </p>
+                        <p><a href="https://www.tiktok.com/@pongamoslo_a_prueba" target="_blank"><i class="fab fa-tiktok"></i><b> @pogamoslo_a_prueba</b></a>  21.5 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/Pongamosloapruebaoficial" target="_blank"><i class="fab fa-youtube"></i> <b> @Pogamoslo a prueba</b></a>  3.08 millones de suscriptores </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>20 de Junio de 1989</p>
                         <h2>Nacionalidad</h2>
@@ -155,11 +157,11 @@
                         <h2>Nombre:</h2>
                         <p>Rosshanna Bracho</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @odalysanddafnne</b></a>  412K seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @odalysanddafnne</b></a>  104.8K seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Hermanas JM</b></a>  533K suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-facebook"></i> <b> @Hermanas JM</b></a>  73K seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Hermanas JM</b></a>  28.7K seguidores </p>
+                        <p><a href="https://www.instagram.com/rosshannabracho/" target="_blank"><i class="fab fa-instagram"></i> <b> @rosshannabracho</b></a>  412K seguidores </p>
+                        <p><a href="https://www.tiktok.com/@rosshanna.bracho" target="_blank"><i class="fab fa-tiktok"></i><b> @rosshanna.bracho</b></a>  104.8K seguidores </p>
+                        <p><a href="https://www.youtube.com/c/RosshannaBracho" target="_blank"><i class="fab fa-youtube"></i> <b> @Rosshanna Bracho</b></a>  533K suscriptores </p>
+                        <p><a href="https://www.facebook.com/RosshannaBracho" target="_blank"><i class="fab fa-facebook"></i> <b> @Rosshanna Bracho</b></a>  73K seguidores </p>
+                        <p><a href="https://twitter.com/rosshannabracho" target="_blank"><i class="fab fa-twitter"></i> <b> @rosshannabracho</b></a>  28.7K seguidores </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>16 de agosto de 1990</p>
                         <h2>Nacionalidad</h2>
@@ -194,11 +196,11 @@
                         <h2>Nombre:</h2>
                         <p>Alfredo Briceño.</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-facebook-f"></i><b> @MarioAguilarvideos</b></a>  8.2 millones de seguidores</p> 
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @marioaguilarmg</b></a>  1.2 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @marioaguilar</b></a>  8.2 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @MarioAguilarMG</b></a>  565K suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @MarioAguilarMG</b></a>  11.7K suscriptores </p>
+                        <p><a href="https://www.facebook.com/fredebrocha" target="_blank"><i class="fab fa-facebook-f"></i><b> @fredebrocha</b></a>  8.2 millones de seguidores</p> 
+                        <p><a href="https://www.instagram.com/fredebrocha" target="_blank"><i class="fab fa-instagram"></i> <b> @fredebrocha</b></a>  1.2 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@fredebrochito" target="_blank"><i class="fab fa-tiktok"></i><b> @fredebrochito</b></a>  8.2 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/FredeBrocha" target="_blank"><i class="fab fa-youtube"></i> <b> @Frede Brocha</b></a>  565K suscriptores </p>
+                        <p><a href="https://twitter.com/Fredebrocha" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @Fredebrocha</b></a>  11.7K suscriptores </p>
 
                         <h2>Edad</h2>
                         <p>29 años</p>
@@ -232,11 +234,11 @@
                         <h2>Nombre:</h2>
                         <p>Daniela Hoyos Falcó</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/PacoDeMiguelF" target="_blank"><i class="fab fa-facebook-f"></i><b> @PacoDeMiguelF</b></a>  170k seguidores</p> 
-                        <p><a href="https://www.instagram.com/pacodemiguel/" target="_blank"><i class="fab fa-instagram"></i> <b> @pacodemiguel</b></a>  1.8 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@pacodemiguel" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  1.9 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/user/PacoDeMiguelOficial" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  4.43 millones de suscriptores </p>
-                        <p><a href="https://twitter.com/PacoDeMiguelF" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @PacoDeMiguelF</b></a>  187.6K suscriptores </p>
+                        <p><a href="https://www.facebook.com/danielahoyosart" target="_blank"><i class="fab fa-facebook-f"></i><b> @danielahoyosart</b></a>  170k seguidores</p> 
+                        <p><a href="https://www.instagram.com/danielahoyos" target="_blank"><i class="fab fa-instagram"></i> <b> @danielahoyos</b></a>  1.8 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@mamazentangler" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  1.9 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/danielahoyosart" target="_blank"><i class="fab fa-youtube"></i> <b> @Dani Hoyos</b></a>  4.43 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/pritidani" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @pritidani</b></a>  187.6K suscriptores </p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>26 de diciembre de 1995</p>

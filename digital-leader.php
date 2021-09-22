@@ -87,12 +87,11 @@
                         <h2>Nombre:</h2>
                         <p>Kimberly Guadalupe Loaiza Martínez </p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i><b> @soojinicoreana</b></a>  938K oyentes mensuales</p> 
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @soojinicoreana</b></a>  30.3 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @soojinicoreana</b></a>  51.2 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Chingu amiga</b></a>  33.3 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Chingu amiga</b></a>  11.4 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Chingu amiga</b></a>  6.6 millones de suscriptores </p>
+                        <p><a href="https://www.instagram.com/kimberly.loaiza" target="_blank"><i class="fab fa-instagram"></i> <b> @kimberly.loaiza</b></a>  30.3 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@kimberly.loaiza" target="_blank"><i class="fab fa-tiktok"></i><b> @kimberly.loaiza</b></a>  51.2 millones de seguidores </p>
+                        <p><a href="https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A?si=IsyKfU_WRlquRqFAP7gDZA&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i> <b> @CKim Loaiza</b></a>  938K oyentes mensuales </p>
+                        <p><a href="https://www.youtube.com/c/KimberlyLoaiza" target="_blank"><i class="fab fa-youtube"></i> <b> @Kimberly Loaiza</b></a>  11.4 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/KimberlyLoaiza_" target="_blank"><i class="fab fa-twitter"></i> <b> @KimberlyLoaiza_</b></a>  6.6 millones de suscriptores </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>12 de diciembre 1997</p>
                         <h2>Nacionalidad</h2>
@@ -127,10 +126,12 @@
                         <h2>Nombre:</h2>
                         <p>Federico Augusto Vigevani de Arce </p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @rorrovidios</b></a>  5.1 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @rorrovidios</b></a>  10.6 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Rorrovidios</b></a>  12.3 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @Rorrovidios</b></a>  1.5 millones de suscriptores </p>
+                        <p><a href="https://www.facebook.com/fedevigevani" target="_blank"><i class="fab fa-facebook-f"></i> <b> @fedevigevani</b></a>  5.1 millones de seguidores </p>
+                        
+                        <p><a href="https://www.instagram.com/fedevigevani" target="_blank"><i class="fab fa-instagram"></i> <b> @fedevigevani</b></a>  5.1 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@fedevigevani" target="_blank"><i class="fab fa-tiktok"></i><b> @fedevigevani</b></a>  10.6 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/user/fedexvige" target="_blank"><i class="fab fa-youtube"></i> <b> @Fede Vigevani</b></a>  12.3 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/fedevigevani" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @fedevigevani</b></a>  1.5 millones de suscriptores </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>1 de octubre de 1994</p>
                         <h2>Nacionalidad</h2>
@@ -165,13 +166,11 @@
                         <h2>Nombre:</h2>
                         <p>Bryan Villanueva Salazar | Eduardo Villanueva Salazar</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @odalysanddafnne</b></a>  3.8 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @odalysanddafnne</b></a>  2.6 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @odalysanddafnne</b></a>  6.1 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @odalysanddafnne</b></a>  3.3 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Hermanas JM</b></a>  1 millon suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Hermanas JM</b></a>  891.5K suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Hermanas JM</b></a>  11.3 millones de suscriptores </p>
+                        <p><a href="https://www.instagram.com/bryan_skabeche" target="_blank"><i class="fab fa-instagram"></i> <b> @bryan_skabeche</b></a>  3.8 millones de seguidores </p>
+                        <p><a href="https://www.instagram.com/eddy_skabeche" target="_blank"><i class="fab fa-instagram"></i> <b> @eddy_skabeche</b></a>  2.6 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@bryan_skabeche" target="_blank"><i class="fab fa-tiktok"></i><b> @bryan_skabeche</b></a>  6.1 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@eddy_skabeche" target="_blank"><i class="fab fa-tiktok"></i><b> @eddy_skabeche</b></a>  3.3 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/MasSKabeche" target="_blank"><i class="fab fa-youtube"></i> <b> @Más SKabeche</b></a>  11.3 millones de suscriptores </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>31 de diciembre de 1994 | 26 de agosto de 1996</p>
                         <h2>Nacionalidad</h2>
@@ -205,10 +204,10 @@
                         <h2>Nombre:</h2>
                         <p>Rodrigo Alonso Contreras González</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @marioaguilarmg</b></a>  11.3 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @marioaguilar</b></a>  36.1 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @MarioAguilarMG</b></a>  4.88 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @MarioAguilarMG</b></a>  1.4 millones de suscriptores </p>
+                        <p><a href="https://www.instagram.com/elrodrigocontreras" target="_blank"><i class="fab fa-instagram"></i> <b> @elrodrigocontreras</b></a>  11.3 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@elrodcontreras" target="_blank"><i class="fab fa-tiktok"></i><b> @elrodcontreras</b></a>  36.1 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/RodrigoContrerass" target="_blank"><i class="fab fa-youtube"></i> <b> @ROD CONTRERAS</b></a>  4.88 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/elrodcontreras" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @elrodcontreras</b></a>  1.4 millones de suscriptores </p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>28 de diciembre de 1999</p>
@@ -244,12 +243,11 @@
                         <h2>Nombre:</h2>
                         <p>Kenia Guadalupe Flores Osuna</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/PacoDeMiguelF" target="_blank"><i class="fab fa-spotify"></i><b> @PacoDeMiguelF</b></a>  2.6M de oyentes mensuales</p> 
-                        <p><a href="https://www.instagram.com/pacodemiguel/" target="_blank"><i class="fab fa-instagram"></i> <b> @pacodemiguel</b></a>  10.5 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@pacodemiguel" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  11.8 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/user/PacoDeMiguelOficial" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  7.02 millones de suscriptores </p>
-                        <p><a href="https://www.youtube.com/user/PacoDeMiguelOficial" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  3.7 millones de suscriptores </p>
-                        <p><a href="https://twitter.com/PacoDeMiguelF" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @PacoDeMiguelF</b></a>  3.6 millones de seguidores </p>
+                        <p><a href="https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG?si=jwhL-l4VS1GUH-FPNqCMFA&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i><b> @Kenia OS</b></a>  2.6M de oyentes mensuales</p> 
+                        <p><a href="https://www.instagram.com/keniaos" target="_blank"><i class="fab fa-instagram"></i> <b> @keniaos</b></a>  10.5 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@keniaos" target="_blank"><i class="fab fa-tiktok"></i><b> @keniaos</b></a>  11.8 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UCgDeSlu4pNSRrv87ScB0VaQ" target="_blank"><i class="fab fa-youtube"></i> <b> @Kenia Os</b></a>  7.02 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/keniaos" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @keniaos</b></a>  3.6 millones de seguidores </p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>15 de julio de 1999</p>
@@ -284,11 +282,11 @@
                         <h2>Nombre:</h2>
                         <p>Danna Paola Rivera Munguía</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i><b> @PacoDeMiguelF</b></a>  13M de oyentes mensuales</p> 
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @pacodemiguel</b></a>  32.4 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  15.1 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  4.97 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @PacoDeMiguelF</b></a>  5.6 millones de seguidores </p>
+                        <p><a href="https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB?si=tboBsGnWSfmpAIuhfFnLZQ&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i><b> @Danna Paola</b></a>  13M de oyentes mensuales</p> 
+                        <p><a href="https://www.instagram.com/dannapaola" target="_blank"><i class="fab fa-instagram"></i> <b> @dannapaola</b></a>  32.4 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@dannapaola" target="_blank"><i class="fab fa-tiktok"></i><b> @dannapaola</b></a>  15.1 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UCDJT6nxGrFEU3vut0nfgVWQ" target="_blank"><i class="fab fa-youtube"></i> <b> @Danna Paola</b></a>  4.97 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/dannapaola" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @danapaola</b></a>  5.6 millones de seguidores </p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>23 de junio de 1995</p>

@@ -29,10 +29,14 @@
 }
 .regresar-home{
     position: absolute;
-    top: 85%;
-    transform: translateY(-85%);
+    top: 70%;
+    transform: translateY(-70%);
     left: 50%;
     transform: translateX(-50%);
+    @include tablet{
+        top: 95%;
+        transform: translateY(-95%);
+    }
     a{
         text-transform: uppercase;
         font-weight: 700;

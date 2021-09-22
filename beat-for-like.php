@@ -81,10 +81,10 @@
                         <h2>Nombre:</h2>
                         <p>Ingrid Fernanda Enríquez Guillén</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/soojinicoreana" target="_blank"><i class="fab fa-spotify"></i><b> @soojinicoreana</b></a>  8.2 millones de oyentes mensuales</p> 
-                        <p><a href="https://www.instagram.com/soojinicoreana/" target="_blank"><i class="fab fa-instagram"></i> <b> @soojinicoreana</b></a>  3.3 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@soojinicoreana" target="_blank"><i class="fab fa-tiktok"></i><b> @soojinicoreana</b></a>  13.2 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/channel/UCL0bN6THhHVBwRPsXKOhAHg" target="_blank"><i class="fab fa-youtube"></i> <b> @Chingu amiga</b></a>  1.1 millones de suscriptores </p>
+                        <p><a href="https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8?si=syHI4kvATFWkA02CasnGsA&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i><b> @ingratax</b></a>  8.2 millones de oyentes mensuales</p> 
+                        <p><a href="https://www.instagram.com/ingratax/" target="_blank"><i class="fab fa-instagram"></i> <b> @ingratax</b></a>  3.3 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@ingratax" target="_blank"><i class="fab fa-tiktok"></i><b> @ingratax</b></a>  13.2 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UCGaChOKVuZhUwFg4cEWF3Lg" target="_blank"><i class="fab fa-youtube"></i> <b> @ingratax</b></a>  1.1 millones de suscriptores </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>4 de febrero del 2000</p>
                         <h2>Nacionalidad</h2>
@@ -119,11 +119,11 @@
                         <h2>Nombre:</h2>
                         <p>Paola Montserrat Pantoja </p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/Rorrovidios" target="_blank"><i class="fab fa-spotify"></i><b> @Rorrovidios</b></a>  2.5 millones de oyentes mensuales</p> 
-                        <p><a href="https://www.instagram.com/rorrovidios/" target="_blank"><i class="fab fa-instagram"></i> <b> @rorrovidios</b></a>  9.6 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@rorrovidios" target="_blank"><i class="fab fa-tiktok"></i><b> @rorrovidios</b></a>  27.7 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/c/Rorrovidios" target="_blank"><i class="fab fa-youtube"></i> <b> @Rorrovidios</b></a>  2.7 millones de suscriptores </p>
-                        <p><a href="https://twitter.com/Rorrovidios" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @Rorrovidios</b></a>  867K suscriptores </p>
+                        <p><a href="https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0" target="_blank"><i class="fab fa-spotify"></i><b> @mont.Pantoja</b></a>  2.5 millones de oyentes mensuales</p> 
+                        <p><a href="https://www.instagram.com/mont.Pantoja/" target="_blank"><i class="fab fa-instagram"></i> <b> @mont.Pantoja</b></a>  9.6 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@montpantoja" target="_blank"><i class="fab fa-tiktok"></i><b> @montpantoja</b></a>  27.7 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UCO7d7xNYs1qRF9fQO3OOsvQ" target="_blank"><i class="fab fa-youtube"></i> <b> @monttpantoja</b></a>  2.7 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/monttpantoja" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @monttpantoja</b></a>  867K suscriptores </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>17 de febrero de 2002</p>
                         <h2>Nacionalidad</h2>
@@ -157,11 +157,11 @@
                         <h2>Nombre:</h2>
                         <p>Karol Itzitery Piña Cisneros</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @odalysanddafnne</b></a>  13.5 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @odalysanddafnne</b></a>  22.5 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Hermanas JM</b></a>  8.67 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Hermanas JM</b></a>  951.7K suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i> <b> @Hermanas JM</b></a>  360K oyentes mensuales </p>
+                        <p><a href="https://www.instagram.com/KarolSevillaOfc" target="_blank"><i class="fab fa-instagram"></i> <b> @KarolSevillaOfc</b></a>  13.5 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@karolsevillaokay" target="_blank"><i class="fab fa-tiktok"></i><b> @karolsevillaokay</b></a>  22.5 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/KarolSevillaOF" target="_blank"><i class="fab fa-youtube"></i> <b> @karolsevillaokay</b></a>  8.67 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/KarolSevilla" target="_blank"><i class="fab fa-twitter"></i> <b> @KarolSevilla</b></a>  951.7K suscriptores </p>
+                        <p><a href="https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3" target="_blank"><i class="fab fa-spotify"></i> <b> @KarolSevilla</b></a>  360K oyentes mensuales </p>
                         <h2>Fecha de nacimiento</h2>
                         <p>9 de noviembre de 1999</p>
                         <h2>Nacionalidad</h2>
@@ -195,11 +195,11 @@
                         <h2>Nombre:</h2>
                         <p>María de los Ángeles Becerra</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/MarioAguilarvideos" target="_blank"><i class="fab fa-spotify"></i><b> @MarioAguilarvideos</b></a>  23.8 millones de oyentes</p> 
-                        <p><a href="https://www.instagram.com/marioaguilarmg/" target="_blank"><i class="fab fa-instagram"></i> <b> @marioaguilarmg</b></a>  6.4 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@marioaguilar" target="_blank"><i class="fab fa-tiktok"></i><b> @marioaguilar</b></a>  4.2 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/user/MarioAguilarMG" target="_blank"><i class="fab fa-youtube"></i> <b> @MarioAguilarMG</b></a>  2.63 millones de suscriptores </p>
-                        <p><a href="https://twitter.com/MarioAguilarMG" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @MarioAguilarMG</b></a>  1.4 millones de suscriptores </p>
+                        <p><a href="https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG" target="_blank"><i class="fab fa-spotify"></i><b> @mariabecerra</b></a>  23.8 millones de oyentes</p> 
+                        <p><a href="https://www.instagram.com/mariabecerra/" target="_blank"><i class="fab fa-instagram"></i> <b> @mariabecerra</b></a>  6.4 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@mariabecerra_22" target="_blank"><i class="fab fa-tiktok"></i><b> @mariabecerra_22</b></a>  4.2 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UCEcb76oxfjpX5eGysQCHvcA" target="_blank"><i class="fab fa-youtube"></i> <b> @MariaBecerra22</b></a>  2.63 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/MariaBecerra22" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @MariaBecerra22</b></a>  1.4 millones de suscriptores </p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>12 de febrero del 2000</p>
@@ -235,11 +235,11 @@
                         <h2>Nombre:</h2>
                         <p>Kenia Guadalupe Flores Osuna</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/PacoDeMiguelF" target="_blank"><i class="fab fa-spotify"></i><b> @PacoDeMiguelF</b></a>  2.6M de oyentes mensuales</p> 
-                        <p><a href="https://www.instagram.com/pacodemiguel/" target="_blank"><i class="fab fa-instagram"></i> <b> @pacodemiguel</b></a>  10.5 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@pacodemiguel" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  11.8 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/user/PacoDeMiguelOficial" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  7.02 millones de suscriptores </p>
-                        <p><a href="https://twitter.com/PacoDeMiguelF" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @PacoDeMiguelF</b></a>  3.6 millones de seguidores </p>
+                        <p><a href="https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG?si=jwhL-l4VS1GUH-FPNqCMFA&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i><b> @keniaos</b></a>  2.6M de oyentes mensuales</p> 
+                        <p><a href="https://www.instagram.com/keniaos/" target="_blank"><i class="fab fa-instagram"></i> <b> @keniaos</b></a>  10.5 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@keniaos" target="_blank"><i class="fab fa-tiktok"></i><b> @keniaos</b></a>  11.8 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UCgDeSlu4pNSRrv87ScB0VaQ" target="_blank"><i class="fab fa-youtube"></i> <b> @keniaos</b></a>  7.02 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/keniaos" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @keniaos</b></a>  3.6 millones de seguidores </p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>15 de julio de 1999</p>

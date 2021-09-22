@@ -80,11 +80,11 @@
                         <h2>Nombre:</h2>
                         <p>Ignacia Antonia Hernández Riquelme</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @soojinicoreana</b></a>  8.3 millones de seguidores</p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @soojinicoreana</b></a>  24.6 millones de seguidores</p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i><b> @soojinicoreana</b></a>  3.48 millones de suscriptores</p> 
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @soojinicoreana</b></a>  6.3K seguidores</p>
-                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i><b> @soojinicoreana</b></a>  2.5K de oyentes mensuales</p>
+                        <p><a href="https://www.instagram.com/ignaciaa_antonia" target="_blank"><i class="fab fa-instagram"></i> <b> @ignaciaa_antonia  </b></a>  8.3 millones de seguidores</p>
+                        <p><a href=" https://www.tiktok.com/@ignaciaa_antonia" target="_blank"><i class="fab fa-tiktok"></i><b> @ignaciaa_antonia </b></a>  24.6 millones de seguidores</p>
+                        <p><a href="https://www.youtube.com/channel/UCOqKFUjsI5NTE0QE46Dr5Fw" target="_blank"><i class="fab fa-youtube"></i><b> @Ingnacia Antonia </b></a>  3.48 millones de suscriptores</p> 
+                        <p><a href="https://twitter.com/Ignaciantonia" target="_blank"><i class="fab fa-twitter"></i> <b> @Ignaciantonia_</b></a>  6.3K seguidores</p>
+                        <p><a href="https://open.spotify.com/artist/0Dru4i9eJ3R0nVBIJ1qIp0?si=iLzJBkC8TwS6QkUbKjGavA&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i><b> @Ingnacia Antonia</b></a>  2.5K de oyentes mensuales</p>
                         <h2>Fecha de nacimiento</h2>
                         <p>7 de septiembre de 2001</p>
                         <h2>Nacionalidad</h2>
@@ -119,11 +119,11 @@
                         <h2>Nombre:</h2>
                         <p>Guillermo Kunno</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i><b> @Rorrovidios</b></a>  921K seguidores</p> 
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @rorrovidios</b></a>  5 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @rorrovidios</b></a>  23 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Rorrovidios</b></a>  653K suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i> <b> @Rorrovidios</b></a>  25.9K oyentes mensuales</p>
+                        <p><a href="https://twitter.com/papikunno" target="_blank"><i class="fab fa-twitter"></i><b> @papikunno</b></a>  921K seguidores</p> 
+                        <p><a href="https://www.instagram.com/papikunno" target="_blank"><i class="fab fa-instagram"></i> <b> @papikunno </b></a>  5 millones de seguidores </p>
+                        <p><a href="link: https://www.tiktok.com/@.kunno" target="_blank"><i class="fab fa-tiktok"></i><b> @papikunno </b></a>  23 millones de seguidores </p>
+                        <p><a href="https://www.facebook.com/daddykunno" target="_blank"><i class="fab fa-facebook-f"></i> <b> @kunno </b></a>  653K suscriptores </p>
+                        <p><a href="https://open.spotify.com/artist/3tWbpLn172AGK2x4Yr3KgB?si=ieiR8JK6R2KQz1lJGgtgBw&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i> <b> @Kunno</b></a>  25.9K oyentes mensuales</p>
                         <h2>Fecha de nacimiento</h2>
                         <p>8 de Mayo de 2000</p>
                         <h2>Nacionalidad</h2>
@@ -159,10 +159,11 @@
                         <h2>Nombre:</h2>
                         <p>César Fernando Nieblas Nuñez</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @odalysanddafnne</b></a>  2.8 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @odalysanddafnne</b></a>  10.2 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @Hermanas JM</b></a>  3.08 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-twitter"></i> <b> @Hermanas JM</b></a>  235K seguidores</p>
+                        <p><a href="https://www.instagram.com/cesarpantoja.n" target="_blank"><i class="fab fa-instagram"></i> <b> @cesarpantoja.n</b></a>  2.8 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@cesarpantoja.n" target="_blank"><i class="fab fa-tiktok"></i><b> @cesarpantoja.n</b></a>  10.2 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/CesarPantojanu" target="_blank"><i class="fab fa-youtube"></i> <b> @Cesar Pantoja</b></a>  3.08 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/Cesarpantojaa" target="_blank"><i class="fab fa-twitter"></i> <b> @Cesarpantojaa</b></a>  235K seguidores</p>
+                        <p><a href="https://www.facebook.com/cesarpantoja.n5" target="_blank"><i class="fab fa-facebook-f"></i> <b> @cesarpantoja.n5</b></a>  235K seguidores</p>
                         <h2>Fecha de nacimiento</h2>
                         <p>27 de febrero de 2003</p>
                         <h2>Nacionalidad</h2>
@@ -197,11 +198,11 @@
                         <h2>Nombre:</h2>
                         <p>Carlos Alberto Feria Guzmán</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="#" target="_blank"><i class="fab fa-facebook-f"></i><b> @MarioAguilarvideos</b></a>  1.7 millones de seguidores</p> 
-                        <p><a href="#" target="_blank"><i class="fab fa-instagram"></i> <b> @marioaguilarmg</b></a>  5.8 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-tiktok"></i><b> @marioaguilar</b></a>  32.2 millones de seguidores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-youtube"></i> <b> @MarioAguilarMG</b></a>  2.06 millones de suscriptores </p>
-                        <p><a href="#" target="_blank"><i class="fab fa-spotify"></i> <b> @MarioAguilarMG</b></a>  24.5K oyentes mensuales</p>
+                        <p><a href="https://www.facebook.com/carlosferiag" target="_blank"><i class="fab fa-facebook-f"></i><b> @Carlos Feria.</b></a>  1.7 millones de seguidores</p> 
+                        <p><a href="https://www.instagram.com/carlosferiag/" target="_blank"><i class="fab fa-instagram"></i> <b> @carlosfeiag</b></a>  5.8 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@carlosferiag" target="_blank"><i class="fab fa-tiktok"></i><b> @carlosferiag</b></a>  32.2 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/c/CarlosFeriaG" target="_blank"><i class="fab fa-youtube"></i> <b> @Carlos Feria</b></a>  2.06 millones de suscriptores </p>
+                        <p><a href="https://open.spotify.com/artist/2HEDKrO346KAYhGfmXaE7c?si=xRRzNE9_RJ2hwvHHJfz4UA&dl_branch=1" target="_blank"><i class="fab fa-spotify"></i> <b> @Carlos Feria</b></a>  24.5K oyentes mensuales</p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>2 de noviembre de 1996</p>
@@ -237,11 +238,11 @@
                         <h2>Nombre:</h2>
                         <p>Darian Fernanda Rojas Crawston</p>
                         <h2>Suscriptores</h2>
-                        <p><a href="https://www.facebook.com/PacoDeMiguelF" target="_blank"><i class="fab fa-facebook-f"></i><b> @PacoDeMiguelF</b></a>  117k seguidores</p> 
-                        <p><a href="https://www.instagram.com/pacodemiguel/" target="_blank"><i class="fab fa-instagram"></i> <b> @pacodemiguel</b></a>  7.4 millones de seguidores </p>
-                        <p><a href="https://www.tiktok.com/@pacodemiguel" target="_blank"><i class="fab fa-tiktok"></i><b> @pacodemiguel</b></a>  28.7 millones de seguidores </p>
-                        <p><a href="https://www.youtube.com/user/PacoDeMiguelOficial" target="_blank"><i class="fab fa-youtube"></i> <b> @PacoDeMiguelF</b></a>  1.3 millones de suscriptores </p>
-                        <p><a href="https://twitter.com/PacoDeMiguelF" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @PacoDeMiguelF</b></a>  1.1 millones de seguidores </p>
+                        <p><a href="https://www.facebook.com/Darian-Rojas-162490642168965" target="_blank"><i class="fab fa-facebook-f"></i><b> @Darian Rojas</b></a>  117k seguidores</p> 
+                        <p><a href="https://www.instagram.com/darianrojasc/" target="_blank"><i class="fab fa-instagram"></i> <b> @darianrojasc</b></a>  7.4 millones de seguidores </p>
+                        <p><a href="https://www.tiktok.com/@darianrojasc" target="_blank"><i class="fab fa-tiktok"></i><b> @darianrojasc</b></a>  28.7 millones de seguidores </p>
+                        <p><a href="https://www.youtube.com/channel/UCP9ukbDPR1BaUW-9Xa6UtRQ" target="_blank"><i class="fab fa-youtube"></i> <b> @DARISHLA</b></a>  1.3 millones de suscriptores </p>
+                        <p><a href="https://twitter.com/darianrojascc" target="_blank"><i class="fab fa-twitter fa-lg"></i> <b> @darianrojascc</b></a>  1.1 millones de seguidores </p>
                         
                         <h2>Fecha de nacimiento</h2>
                         <p>6 de diciembre de 1996</p>
