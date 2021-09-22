@@ -24,7 +24,7 @@
         <div class="swiper-slide slide1" id="home">
             <div class="box-0">
                 <div class="contenedor-1">
-                    <h1>Nominados a la categoría Beat for Like</h1>
+                    <h1>Nominados a la categoría Líder Digital</h1>
                     <p class="arrastrar movil">&#60;&#60;   <span>Arrastra</span>   &#62;&#62;</p>
                     <p class="arrastrar pc"><span>Conoce a los nominados da clic en la imagen</span></p>
                     <!--<a href="#primer-texto">Análisis</a>-->

@@ -60,6 +60,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="regresar-home">
+                        <a href="../index.html">Regresar</a>
+                </div>
             </div>       
         </div>
         <div class="swiper-slide slide2">
